@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F7D6&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%A4%9D%E2%9D%95I+am+Pradyush+Mohapatra)](https://git.io/typing-svg)
  
-<h3 align="center">Passionate Computer Science Engineer || IOT || ML Enthusiast</h3>
+<h3 align="center">Passionate Computer Science Engineer || IOT || ML Enthusiastic</h3>
 
 ---
 
