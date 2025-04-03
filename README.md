@@ -3,7 +3,7 @@
 I am a 3rd-year Computer Science Engineering student specializing in IoT integrated with Machine Learning. I have a strong foundation in Java, Python, Web Development, and Problem-Solving, and I am passionate about creating innovative and impactful technological solutions. I actively seek opportunities to develop software that drives meaningful change in the world.
 
 🎯 Current Focus:
-✔ B.Tech in Computer Science Engineering
+<p>✔ B.Tech in Computer Science Engineering</p>>
 ✔ Exploring IoT, Machine Learning, and AI
 ✔ Improving Problem-Solving & Software Development skills
 
